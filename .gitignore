@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+backend/railway.db
+backend/.venv/
+node_modules/
+frontend/dist/
